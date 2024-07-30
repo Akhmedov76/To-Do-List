@@ -28,6 +28,3 @@ class JsonManager:
 
 data_manager = JsonManager("data/datas.json")
 
-"""
-Faylda nimadir xatoc
-"""
