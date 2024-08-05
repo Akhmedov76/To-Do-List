@@ -1,0 +1,289 @@
+2024-08-04 11:04:23 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-04 11:05:17 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 11:10:03 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 11:12:32 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 11:12:38 - INFO - function: login args: () kwargs: {}, result: False
+2024-08-04 13:00:08 - INFO - function: login args: () kwargs: {}, result: False
+2024-08-04 13:00:38 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 17:54:52 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 18:17:52 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 18:18:45 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 18:21:22 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 18:22:26 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 18:28:05 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 18:28:32 - INFO - function: login args: () kwargs: {}, result: False
+2024-08-04 18:28:35 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 18:31:00 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 18:32:47 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 18:33:08 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 18:34:37 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 18:43:07 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 18:43:33 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 18:44:13 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 18:45:56 - INFO - function: login args: () kwargs: {}, result: False
+2024-08-04 18:46:01 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-04 18:49:44 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 00:57:17 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 01:24:13 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 01:29:12 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 01:33:59 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 11:01:27 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 11:02:39 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 11:03:41 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 11:04:04 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 11:04:29 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 11:05:17 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 11:11:46 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 11:12:55 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 11:29:41 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 11:32:03 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 11:39:21 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 11:40:04 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 11:42:35 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 11:43:21 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 11:46:36 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 11:47:07 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 11:47:32 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 11:48:31 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 11:49:41 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 11:50:34 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 11:51:46 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 11:53:12 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 11:54:06 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:01:55 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:20:33 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:20:44 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:21:03 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:21:35 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:30:10 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:31:08 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:31:23 - INFO - function: write_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000021639615400>, 'Jasur, salom, nima gaplar, 2024-08-05 12:31:23') kwargs: {}, result: None
+2024-08-05 12:31:26 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000021639615400>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:33:42 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:33:43 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x00000177225453D0>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:34:30 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:34:31 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001D214C153A0>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:34:54 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:34:55 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001EE9BDA5400>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:35:50 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:35:51 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000002BD95445070>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:36:17 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:36:18 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x00000261AFAA5070>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:38:29 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:38:31 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000016763335400>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:41:59 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:42:00 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x00000154E17B5430>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:42:27 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:42:28 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000029D31675430>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:44:58 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:44:59 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001A966A85430>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:47:19 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:47:20 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x00000152CDD45430>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:47:42 - INFO - function: login args: () kwargs: {}, result: False
+2024-08-05 12:47:48 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:47:49 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000002531AF215E0>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:48:16 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:48:17 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000002BCCA731670>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:48:48 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:48:48 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000002AA14F61670>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:49:17 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:49:17 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x00000206617814C0>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:49:29 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:49:30 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x00000150C92A15E0>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:49:45 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:49:46 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x00000218CD751670>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:50:10 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 12:50:11 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000015C1F9515E0>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:52:34 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:52:59 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:53:00 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001FE6EEA1370>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:53:36 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:53:37 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000023F84FE1400>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:54:35 - INFO - function: login args: () kwargs: {}, result: False
+2024-08-05 12:54:40 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:54:41 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000002563F401400>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:55:14 - INFO - function: login args: () kwargs: {}, result: False
+2024-08-05 12:55:17 - INFO - function: login args: () kwargs: {}, result: False
+2024-08-05 12:55:20 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:55:21 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001EB3B751370>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:56:34 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:56:35 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000002067F8C11C0>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:56:51 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:56:52 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000024F105411C0>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:58:03 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:58:31 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:58:39 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x00000246370D11C0>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:58:39 - INFO - function: search_posts args: () kwargs: {}, result: None
+2024-08-05 12:59:09 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:59:12 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000016B39A61580>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:59:12 - INFO - function: search_posts args: () kwargs: {}, result: True
+2024-08-05 12:59:31 - INFO - function: login args: () kwargs: {}, result: False
+2024-08-05 12:59:33 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 12:59:36 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x00000245B3C211C0>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Otabek, salom, nima gaplar, 2024-08-05 12:31:23
+Diyor, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 12:59:36 - INFO - function: search_posts args: () kwargs: {}, result: True
+2024-08-05 13:00:46 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 13:00:49 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x00000171CAF11580>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Otabek, salom, nima gaplar, 2024-08-05 12:31:23
+Diyor, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 13:00:49 - INFO - function: search_posts args: () kwargs: {}, result: True
+2024-08-05 13:00:54 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x00000171CAF11580>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Otabek, salom, nima gaplar, 2024-08-05 12:31:23
+Diyor, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 13:00:54 - INFO - function: search_posts args: () kwargs: {}, result: True
+2024-08-05 13:02:23 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 13:02:26 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000017E7E851580>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Otabek, salom, nima gaplar, 2024-08-05 12:31:23
+Diyor, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 13:02:26 - INFO - function: search_posts args: () kwargs: {}, result: True
+2024-08-05 13:02:30 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000017E7E851580>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Otabek, salom, nima gaplar, 2024-08-05 12:31:23
+Diyor, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 13:02:30 - INFO - function: search_posts args: () kwargs: {}, result: True
+2024-08-05 15:18:17 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 15:18:20 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001BC203B1580>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Otabek, salom, nima gaplar, 2024-08-05 12:31:23
+Diyor, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 15:18:20 - INFO - function: search_posts args: () kwargs: {}, result: True
+2024-08-05 15:18:28 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001BC203B1580>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Otabek, salom, nima gaplar, 2024-08-05 12:31:23
+Diyor, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 15:18:28 - INFO - function: show_all_posts args: () kwargs: {}, result: True
+2024-08-05 15:18:33 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001BC203B1580>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Otabek, salom, nima gaplar, 2024-08-05 12:31:23
+Diyor, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 15:18:33 - INFO - function: search_posts args: () kwargs: {}, result: True
+2024-08-05 15:18:38 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001BC203B1580>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Otabek, salom, nima gaplar, 2024-08-05 12:31:23
+Diyor, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 15:18:38 - INFO - function: search_posts args: () kwargs: {}, result: True
+2024-08-05 15:22:10 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:22:18 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000021BB8701190>,) kwargs: {}, result: Jasur, salom, nima gaplar, 2024-08-05 12:31:23
+Otabek, salom, nima gaplar, 2024-08-05 12:31:23
+Diyor, salom, nima gaplar, 2024-08-05 12:31:23
+2024-08-05 15:22:18 - INFO - function: show_posts args: () kwargs: {}, result: True
+2024-08-05 15:22:57 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:22:58 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001B3B36615E0>,) kwargs: {}, result: 
+2024-08-05 15:22:58 - INFO - function: show_posts args: () kwargs: {}, result: True
+2024-08-05 15:24:31 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:24:52 - INFO - function: write_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001B11DD413A0>, 'Diyor, diyor1, salom men Diyorman, 2024-08-05 15:24:52') kwargs: {}, result: None
+2024-08-05 15:24:52 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:24:59 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:25:22 - INFO - function: write_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001B11DD413A0>, "Jasur, Jasur1, Najot ta'lim markazi, 2024-08-05 15:25:22") kwargs: {}, result: None
+2024-08-05 15:25:22 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:25:27 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 15:25:28 - INFO - function: show_all_users args: () kwargs: {}, result: True
+2024-08-05 15:25:35 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001B11DD413A0>,) kwargs: {}, result: Jasur, Jasur1, Najot ta'lim markazi, 2024-08-05 15:25:22
+2024-08-05 15:25:35 - INFO - function: show_all_posts args: () kwargs: {}, result: True
+2024-08-05 15:26:12 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:26:31 - INFO - function: append_to_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000002DA1E1B1190>, 'Diyor, Diyor1, Salom men Diyorman, 2024-08-05 15:26:31') kwargs: {}, result: None
+2024-08-05 15:26:31 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:26:36 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 15:26:38 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000002DA1E1B1190>,) kwargs: {}, result: Jasur, Jasur1, Najot ta'lim markazi, 2024-08-05 15:25:22Diyor, Diyor1, Salom men Diyorman, 2024-08-05 15:26:31
+2024-08-05 15:26:38 - INFO - function: show_all_posts args: () kwargs: {}, result: False
+2024-08-05 15:26:48 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000002DA1E1B1190>,) kwargs: {}, result: Jasur, Jasur1, Najot ta'lim markazi, 2024-08-05 15:25:22Diyor, Diyor1, Salom men Diyorman, 2024-08-05 15:26:31
+2024-08-05 15:26:48 - INFO - function: search_posts args: () kwargs: {}, result: False
+2024-08-05 15:27:27 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:27:51 - ERROR - function: append_to_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x00000282ADE918B0>, 'Diyor, Diyor1, i can doit, 2024-08-05 15:27:51', '\n') kwargs: {}, error: TxtManager.append_to_file() takes 2 positional arguments but 3 were given
+2024-08-05 15:27:51 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:27:56 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 15:27:57 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x00000282ADE918B0>,) kwargs: {}, result: Jasur, Jasur1, Najot ta'lim markazi, 2024-08-05 15:25:22
+2024-08-05 15:27:57 - INFO - function: show_all_posts args: () kwargs: {}, result: True
+2024-08-05 15:28:56 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:29:10 - ERROR - function: append_to_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000021D79C21190>, 'Diyor, Diyor1, hello world, 2024-08-05 15:29', '\n') kwargs: {}, error: TxtManager.append_to_file() takes 2 positional arguments but 3 were given
+2024-08-05 15:29:10 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:29:12 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000021D79C21190>,) kwargs: {}, result: Jasur, Jasur1, Najot ta'lim markazi, 2024-08-05 15:25:22
+2024-08-05 15:29:12 - INFO - function: show_posts args: () kwargs: {}, result: True
+2024-08-05 15:30:58 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000021D79C21190>,) kwargs: {}, result: Jasur, Jasur1, Najot ta'lim markazi, 2024-08-05 15:25:22
+2024-08-05 15:30:58 - INFO - function: show_posts args: () kwargs: {}, result: True
+2024-08-05 15:31:13 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:31:14 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001DC2CCD13A0>,) kwargs: {}, result: Jasur, Jasur1, Najot ta'lim markazi, 2024-08-05 15:25:22
+2024-08-05 15:31:14 - INFO - function: show_posts args: () kwargs: {}, result: True
+2024-08-05 15:32:09 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:32:26 - ERROR - function: append_to_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000028262EB13A0>, 'Jasur, Jasur, Najot talimda joylashgan, 2024-08-05 15:32', '\n') kwargs: {}, error: TxtManager.append_to_file() takes 2 positional arguments but 3 were given
+2024-08-05 15:32:26 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:32:52 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:33:12 - INFO - function: append_to_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001C094A418B0>, 'Jasur, Jasur1, najotda joylashgan, 2024-08-05 15:33') kwargs: {}, result: None
+2024-08-05 15:33:12 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:33:39 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:33:54 - INFO - function: append_to_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001A84F371610>, 'Diyor, Diyor1, Hop keldi, 2024-08-05 15:33') kwargs: {}, result: None
+2024-08-05 15:33:54 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:34:06 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:34:35 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:34:46 - INFO - function: append_to_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000002B10C9A13A0>, 'Diyor, Diyor1, hop keldi, 2024-08-05 15:34\n') kwargs: {}, result: None
+2024-08-05 15:34:46 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:34:49 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000002B10C9A13A0>,) kwargs: {}, result: Jasur, Jasur1, najotda joylashgan, 2024-08-05 15:33Diyor, Diyor1, hop keldi, 2024-08-05 15:34
+
+2024-08-05 15:34:49 - INFO - function: show_posts args: () kwargs: {}, result: False
+2024-08-05 15:35:45 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:35:56 - ERROR - function: append_to_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001A5A84815E0>, '\n', 'Diyor, Diyor1, salom, 2024-08-05 15:35\n') kwargs: {}, error: TxtManager.append_to_file() takes 2 positional arguments but 3 were given
+2024-08-05 15:35:56 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:35:58 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000001A5A84815E0>,) kwargs: {}, result: Jasur, Jasur1, najotda joylashgan, 2024-08-05 15:33
+2024-08-05 15:35:58 - INFO - function: show_posts args: () kwargs: {}, result: True
+2024-08-05 15:41:08 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:41:15 - INFO - function: append_to_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x00000156313214C0>, 'Diyor, Diyor1, salom, 2024-08-05 15:41') kwargs: {}, result: None
+2024-08-05 15:41:15 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:41:16 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x00000156313214C0>,) kwargs: {}, result: Jasur, Jasur1, najotda joylashgan, 2024-08-05 15:33Diyor, Diyor1, salom, 2024-08-05 15:41
+
+2024-08-05 15:41:16 - INFO - function: show_posts args: () kwargs: {}, result: False
+2024-08-05 15:42:23 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:43:03 - INFO - function: append_to_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000023616F314F0>, 'Diyor, Diyor1, aslom, 2024-08-05 15:43') kwargs: {}, result: None
+2024-08-05 15:43:03 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:43:05 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000023616F314F0>,) kwargs: {}, result: Jasur, Jasur1, najotda joylashgan, 2024-08-05 15:33Diyor, Diyor1, aslom, 2024-08-05 15:43
+
+2024-08-05 15:43:05 - INFO - function: show_posts args: () kwargs: {}, result: False
+2024-08-05 15:52:18 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:52:28 - INFO - function: append_to_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000014EC00A13A0>, '1, 1, 1, 2024-08-05 15:52') kwargs: {}, result: None
+2024-08-05 15:52:28 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:52:50 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:52:52 - INFO - function: append_to_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000022D0B241640>, '1, 1, 1, 2024-08-05 15:52') kwargs: {}, result: None
+2024-08-05 15:52:52 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:53:30 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-05 15:53:37 - INFO - function: append_to_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000002264BA913A0>, 'Jasur, 7686, 7686, 2024-08-05 15:53') kwargs: {}, result: None
+2024-08-05 15:53:37 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:53:38 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000002264BA913A0>,) kwargs: {}, result: Jasur, 7686, 7686, 2024-08-05 15:53
+
+2024-08-05 15:53:38 - INFO - function: show_posts args: () kwargs: {}, result: True
+2024-08-05 15:53:46 - INFO - function: append_to_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000002264BA913A0>, 'Diyor, 7686, 7686, 2024-08-05 15:53') kwargs: {}, result: None
+2024-08-05 15:53:46 - INFO - function: create_post args: () kwargs: {}, result: True
+2024-08-05 15:53:47 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x000002264BA913A0>,) kwargs: {}, result: Jasur, 7686, 7686, 2024-08-05 15:53
+Diyor, 7686, 7686, 2024-08-05 15:53
+
+2024-08-05 15:53:47 - INFO - function: show_posts args: () kwargs: {}, result: True
+2024-08-05 15:55:19 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-08-05 15:55:22 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000027A1D9D1640>,) kwargs: {}, result: Jasur, 7686, 7686, 2024-08-05 15:53
+Diyor, 7686, 7686, 2024-08-05 15:53
+
+2024-08-05 15:55:22 - INFO - function: search_posts args: () kwargs: {}, result: True
+2024-08-05 15:55:33 - INFO - function: read_file args: (<month_4.lesson_7.txt_manager.TxtManager object at 0x0000027A1D9D1640>,) kwargs: {}, result: Jasur, 7686, 7686, 2024-08-05 15:53
+Diyor, 7686, 7686, 2024-08-05 15:53
+
+2024-08-05 15:55:33 - INFO - function: search_posts args: () kwargs: {}, result: True
